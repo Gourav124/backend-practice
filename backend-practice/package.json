@@ -1,0 +1,19 @@
+{
+  "name": "backend-practice",
+  "version": "1.0.0",
+  "description": "a backend practice app",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "gourav amolekar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
